@@ -85,6 +85,7 @@ Employee Residence
 Remote Ratio
 Company Location
 Company Size
+
 🔄 Project Workflow
 Import Libraries
 Dataset Loading
@@ -96,6 +97,7 @@ Statistical Summary
 Exploratory Data Analysis
 Business Insights
 Conclusion & Recommendations
+
 📊 Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
@@ -153,12 +155,7 @@ git clone https://github.com/your-username/global-ai-salaries-eda.git
 Install the required libraries:
 
 pip install -r requirements.txt
-▶️ How to Run
-Clone or download the repository.
-Open Global_AI_Salaries_EDA.ipynb in Google Colab or Jupyter Notebook.
-Ensure the dataset (Global_AI_Salaries.csv) is in the same directory.
-Run all notebook cells sequentially.
-📊 Results
+
 Successfully performed Exploratory Data Analysis.
 Identified salary trends across multiple employee categories.
 Analyzed the impact of experience level, company size, and employment type.
